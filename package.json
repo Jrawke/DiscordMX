@@ -1,0 +1,10 @@
+{
+  "name": "DiscordMX",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Owen Horwitz <owenhorwitz@gmail.com>",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-opus": "^0.3.0"
+  }
+}
