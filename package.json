@@ -5,6 +5,7 @@
   "author": "Owen Horwitz <owenhorwitz@gmail.com>",
   "dependencies": {
     "discord.js": "^11.3.2",
+    "mumble": "^0.3.15",
     "node-opus": "^0.3.0"
   }
 }
